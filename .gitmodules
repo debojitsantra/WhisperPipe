@@ -1,14 +1,6 @@
-[submodule "NewPipeExtractor"]
-	path = PipePipeExtractor
-	url = https://github.com/debojitsantra/WhisperPipeExtractor.git
-	branch = main
-[submodule "NewPipeEnhanced-client"]
-	path = PipePipeClient
-	url = https://github.com/debojitsantra/WhisperPipeClient.git
-	branch = dev
 [submodule "PipePipeClient"]
 	path = PipePipeClient
-	url = git@github.com:debojitsantra/WhisperPipeClient.git
+	url = https://github.com/debojitsantra/WhisperPipeClient.git
 [submodule "PipePipeExtractor"]
 	path = PipePipeExtractor
-	url = git@github.com:debojitsantra/WhisperPipeExtractor.git
+	url = https://github.com/debojitsantra/WhisperPipeExtractor.git
